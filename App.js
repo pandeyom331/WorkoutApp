@@ -4,7 +4,7 @@ import exercises from './assets/data/exercises.json';
 
 export default function App() {
   const exercise = exercises[0];
-  // console.log(exercise);
+  console.log(exercise);
   return (
     <View style={styles.container}>
       
